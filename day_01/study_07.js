@@ -1,5 +1,5 @@
 console.log('2'+'13'); // 213
-console.log('10'*2+'5'); // 20
+console.log('10'*2+'5'); // 205
 console.log('62개'-27); // NaN
 
 
